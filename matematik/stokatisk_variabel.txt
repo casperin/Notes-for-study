@@ -1,0 +1,160 @@
+
+ri==
+
+Karl Aarhus: Sandsynlighedsregning, side 35 - 38, 45 - 49 og 52 - 56.<br />
+Hans Chr. Lange: Middelværdi af en stokastisk variabel g(x), side 1 - 2
+
+== Stokastisk variabel ==
+
+En stokastisk variabel er en type af variabel der beskriver et tilfældigt forsøg, hvor udfaldet ikke er kendt.
+
+Et simpelt eksempel på brugen af stokastiske variable, er kast med terninger. For en enkel terning kan vi definere den stokastiske variabel <math>X</math>, som er den bijektive afbildning <math>X : E \to \{1,2,3,4,5,6\}</math>. Således angiver den stokastiske variabel kun udfaldet, eller antallet af terningens øjne. Bruger man i stedet to terninger kan det være passende at definere en stokastisk variabel <math>X</math>, som angiver summen af øjnene i udfaldet. Denne stokastiske variabel er ikke injektiv; Vi ser, at vores stokastiske variabel er defineret på følgende måde: 
+
+<math>X : \{1,2,3,4,5,6\}^2 \to \{2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12\}</math>
+
+[[Image:stokastisk_variabel.png|thumb|207px|right|<math>X : U \rightarrow R</math><br/><math>dm(X) = U</math><br/><math>Vm(X) = R</math>]]
+
+===Sandsynlighedsfordeling===
+
+<math>f_x: Vm(X) \rightarrow [0;1]</math>
+
+<math>f_x(x) = P(X = x)</math>
+
+===Middelværdi===
+
+Lad ''(U,P)'' være et sandsynlighedsfelt, hvor <math>U = \{u_1, u_2, ..., u_n\}</math> og lad <math>X : U \rightarrow R</math> være en stokastisk i ''U''. Vi definerer da middelværdien ''E(X)'' af ''X'' ved:
+
+<math>E(X) = \sum_{u \in U} X(u) \cdot P(u)</math>
+
+middelværdien kan også skrives <math>\mu_x</math>.
+
+
+'''Bevise:''' <math>E(X + Y) = E(X) + E(Y)</math>
+
+<math>E(X +Y) = \sum_{u \in U}(X + Y)(u) \cdot P(u)</math>
+
+Vi kender fra almen funktionslære: <math>(f + g)(x) = f(x) + g(x)</math>, som sættes ind
+
+<math>\sum_{u \in U}(X + Y)(u) \cdot P(u) = \sum_{u \in U}(X(u) + Y(u)) \cdot P(u) =</math>
+
+<math>\sum_{u \in U}X(u) \cdot P(u) + Y(u) \cdot P(u) =</math>
+
+<math>\sum_{u \in U}X(u) \cdot P(u) + \sum_{u \in U}Y(u) \cdot P(u) =</math>
+
+<math>E(X) + E(Y)</math>
+
+
+=== Sætning 10.6: Generelt gældende "g(x) vilkårlig" ===
+
+Når <math>X : U \to R</math> er en stokastisk variabel, og <math> g : R \to R</math> er en reel funktion, da er funktionen <math>g(X) : U \to R</math>, hvor <math>g(X)(u) = g(X(u))</math>, også en stokastisk variabel.
+
+Vi vil nu vise hvordan man beregner middelværdien af en stokastisk variabel, der er givet som en funktion af en anden stokastisk variabel.
+
+<math>E(g(X)) = g(x_1)P(X = x_1) + g(x_2)P(X = x_2) + ... + g(x_k)P(X = x_k)</math>
+
+<math>E(g(X)) = g(x_1)f_x(x_1) + g(x_2)f_x(x_2) + ... + g(x_k)f_x(x_k)</math>
+
+'''Bevis:''' For <math>i = 1,2,...,k</math> sættes<br/>
+<math>A_i = \{ u \in U | X(u) = x_i \}</math> hvor delmængderne <math>A_1, A_2, ..., A_k</math> udgør en klassedeling af ''U'', og den stokastiske variabel ''g(X)'' er konstant på de enkelte delmængder, dvs. at ''g(X)'' antager samme værdi på alle udfald i enhver af delmængderne <math>A_1, A_2, ..., A_k</math>.
+
+Vi finder:
+
+<math>
+\begin{align}
+E(g(X)) & = \sum_{u \in U}g(X)(u)P(u) \\[6pt]
+& = \sum_{u = A_1}g(X(u))P(u) + \sum_{u=A_2}g(X(u))P(u) + ... + \sum_{u=A_k}g(X(u))P(u) \\[6pt]
+& = \sum_{u=A_1}g(x_1)P(u) + \sum_{u=A_2}g(x_2)P(u) + ... + \sum_{u=A_k}g(x_k)P(u) \\[6pt]
+& = g(x_1) \sum_{u=A_1}P(u) + g(x_2) \sum_{u=A_2}P(u) + ... + g(x_k) \sum_{u=A_k}P(u) \\[6pt]
+& = g(x_1)P(A_1) + g(x_2)P(A_2) + ... + g(x_k)P(A_k) \\[6pt]
+& = g(x_1)P(X = x_1) + g(x_2)P(X=x_2) + ... + g(x_k)P(X=x_k) \\[6pt]
+& = \sum^{k}_{i=1}g(x_1) \cdot f_x(x_i)
+\end{align}
+</math>
+
+=== Sætning 10.4: Specialtilfælde af 10.6 "g(x)=x" ===
+
+Definition: <math>E(X) = \sum^k_{i=1}x_i \cdot f_x(x_i)</math>.
+
+<math>g(x) = x</math> er det samme som <math>g \circ X = g(X) = X</math>, hvis de har samme funktionsværdi.
+
+Det vil også sige at <math>g(X)(u) = g(X(u)) = X(u)</math>.
+
+Vi har nu middelværdien:
+
+<math>E(X) = E(g(X)) = \sum_{i=1}g(x_i) \cdot f_x(x_i) = \sum^k_{i=1}x_i \cdot f_x(x_i)</math>.
+
+===Varians===
+
+Definition:<br/>
+Variansen er en metode til at se hvor spredt sandsynlighedsfordelingen for en stokastisk variabel ''X''. Spredningen betegnes <math>\delta (X)</math> og findes ved at se på den stokastiske variabels afvigelse fra middelværdien: <math>\delta (X) = E(|X - \mu_x|)</math>.
+
+Det viser sig at blive mere overskueligt at regne på, hvis man betragter kvadratet på den stokastiske variabels afvigelse fra middelværdien. Således får vi variansen <math>V(X) = E(X - \mu_x)^2</math>. I definitionen på variansen er der underforsstået en parantes, så der i virkeligheden burde stå <math>V(X) = E \left((X - \mu_x)^2 \right)</math>. Variansen kaldes også ''spredningskvadratet''.
+
+===Sætning 11.3===
+
+Vi vil nu vise at følgende gælder: <math>V(X) = \sum^k_{i=1}(x_i - \mu_x)^2 \cdot P(X = x_i)</math>
+
+''Bevis:''<br/>
+Vi benytter sætning 10.6 om middelværdi:
+{|
+|style="border:1px solid #aaaaaa;padding:3px;"|<math>E(g(X)) = g(x_1)P(X=x_1) + g(x_2)P(X=x_2) + ... + g(x_k)P(X=x_k)</math>
+|}
+
+Vi sætter <math>g(x) = (x - \mu_x)^2</math> og så følger:
+
+<math>
+\begin{align}
+V(X) & = E(X - \mu_x)^2 \Leftrightarrow \\[6pt]
+& = E(g(X)) \\[6pt]
+& = \sum^k_{i=1}g(x_i) \cdot P(X = x_i) \\[6pt]
+& = \sum^k_{i=1}(x_i - \mu_x)^2 \cdot P(X = x_i)
+\end{align}
+</math>
+
+===Sætning 11.4===
+
+Vi vil nu vise at <math>V(X) = E(X^2) - (E(X))^2</math>.
+
+Vi skal her udnytte at middelværdien for en stokastisk variabel er et fast tal. Der gælder således:
+
+<math>\forall u \in U : (X - \mu_x)^2(u) = (X(u) - \mu_x)^2</math>.
+
+Da højresiden i udtrykket er et reelt tal ''x'' for alle ''u'' i udfaldsrummet ''U'' gælder den sædvanlige kvadrering af en toleddet størrelse:
+
+<math>(X - \mu_x)^2 = X^2 + \mu_x^2 - 2 \cdot \mu_x \cdot X</math>.
+
+Og så regner vi:
+
+<math>
+\begin{align}
+V(X) & = E(X - \mu_x)^2 \\[6pt]
+& = E(X^2 + \mu_x^2 - 2 \cdot \mu_x \cdot X) \\[6pt]
+& = E(X^2) + E(\mu_x^2) - E(2 \cdot \mu_x \cdot X) \\[6pt]
+& = E(X^2) + \mu_x^2 - 2 \cdot \mu_x \cdot E(X) ; E(x)=c \\[6pt]
+& = E(X^2) + \mu_x^2 - 2 \cdot \mu_x^2 ; \mu_x=E(X) \\[6pt]
+& = E(X^2) - \mu_x^2 \\[6pt]
+& = E(X^2) - (E(X))^2
+\end{align}
+</math>
+
+===Sætning 11.7 nr. 3===
+
+Hvis ''X'' er en stokastisk variabel og ''c'' er en kosntant gælder: <math>V(cX) = c^2V(X)</math>
+
+'''Bevis:'''
+
+<math>
+\begin{align}
+V(cX) & = E(cX)^2 - (E(cX))^2 \\[6pt]
+& = E(c^2X^2) - (E(c) \cdot E(X))^2 \\[6pt]
+& = E(c^2) \cdot E(X^2) - (c^2E(X)^2) \\[6pt]
+& = c^2E(X^2) - c^2E(X)^2 \\[6pt]
+& = c^2(E(X^2) - E(X)^2) \\[6pt]
+& = c^2V(X)
+\end{align}
+</math>
+
+---
+
+<math>c^2</math> udenfor parantes = Sætning 11.4
+

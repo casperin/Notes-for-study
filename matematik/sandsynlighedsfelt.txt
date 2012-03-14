@@ -1,0 +1,40 @@
+=== Betinget sandsunlighed og Bayes ===
+
+Vi har et sandsynlighedsfelt ''(U,P)'' hvor der gælder at <math>P(A) > 0</math>. Hændelse ''B'' sker når ''A'' er indtruffet. Det kan skrives ''P(B|A)'' og findes ved:
+
+<math>P(B|A) = \frac{B(B \cap A)}{P(A)}</math> (givet)
+
+==== Bayes' formel ====
+
+Når ''P(A) > 0'' og ''P(B) > 0'' gælder
+
+<math>P(B|A) = \frac{P(B \cap A)}{P(A)} \Leftrightarrow P(B|A) \cdot P(A) = P(B \cap A)</math>
+
+<math>P(A|B) = \frac{P(A \cap B)}{P(B)} \Leftrightarrow P(A|B) \cdot P(B) = P(A \cap B)</math>
+
+Da <math>P(B \cap A)</math> og <math>P(A \cap B)</math> er to ens størrelser, får vi nu:
+
+<math>P(B|A) \cdot P(A) = P(A|B) \cdot P(B) \Leftrightarrow P(B|A) = \frac{P(A|B) \cdot P(B)}{P(A)}</math>
+
+Som er Bayes' formel.
+
+==== Bayes' sætning ====
+
+Delmængderne <math>A_1, A_2,..., A_n</math> er en kæassedeling af ''U''. Dvs. <math>A_1, A_2,..., A_n</math> er parvis disjunkte.
+
+Har vi nu en delmængde ''B'', som ligger i ''U'' og har fællesmængde med flere af mængderne ''A'', er det for indviklet at finde ''P(B)''. Derfor anvendes nu Bayes' sætning.
+
+Vi har:
+
+<math>B = (B \cap A_1) \cup (B \cap A_2) \cup ... \cup (B \cap A_n)</math> og
+
+<math>P(B) = P(B \cap A_1) + P(B \cap A_2) + ... + P(B \cap A_n)</math>
+
+Vi forlænger nu alle led med <math>{P(A) \over P(A)}</math> så
+
+<math>P(B) = {P(B \cap A_1) \over P(A_1)} \cdot P(A_1) + {P(B \cap A_2) \over P(A_2)} \cdot P(A_2) + ... + {P(B \cap A_n) \over P(A_n)} \cdot P(A_n)</math>
+
+Vi anvender nu Bayes' formel:
+
+<math>P(B) = P(B|A_1) \cdot P(A_1) + P(B|A_2) \cdot P(A_2) + ... + P(B|A_n) \cdot P(A_n)</math>.
+

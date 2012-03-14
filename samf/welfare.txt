@@ -1,0 +1,244 @@
+== Begreber ==
+
+<dl>
+<dt>Inflation
+<dd>Penge bliver mindre værd (priser stiger)
+<dt>Stagnation
+<dd>I økonomisk væsk (altså ingen stigning)
+<dt>Stagflation
+<dd>Sammentrækning af de to ord. Sker når når lønstigninger ''ikke'' overstiger inflationen &rarr; fald ''realindkomsten''.
+<dt>Betalingsbalance
+<dd>Forhold mellem penge der kommer ind i landet (pga eksport) og penge der går ud (via import). Underskud på betalingsbalancen = flere penge ud, end ind.
+<dt>Flexicurity
+<dd>betegnelse for det danske arbejdsmarked
+<dd>Hurtigt ind og ud af jobs, og høj social sikring (hvis man ikke har job)
+<dd>fx kort opsigelsesvarsel og jobcentre (jobnet.dk)
+</dl>
+
+== Liv i Danmark 2, kap. 2 "Velfærens Økonomi" ==
+
+* Velfærdssystemet (det '''universelle''') blev udviklet efter '''WWII'''.
+* Kan ses som en magtkamp mellem befolkningsgrupper ('''hvem''' skal betale, og hvem skal have?)
+* To grupper af hjælp:
+** '''Indkomstoverførsel''' (penge, som ikke kræver en modydelse (arbejde)).
+*** Problem ved disse:
+***# Folk er ude af arbejde.
+***# Færre skattekroner.
+***# At få overførselsindkomst betyder nærmest at samfundet har opgivet én. De fleste foretrækker selv at være i arbejde og yde noget.
+** '''Serviceydelse''' - Læge, skole, politi, militær, veje, osv.
+* De sidste 10 år har vi bevæget os fra "welfare" &rarr; '''"workfare"'''.
+
+[[Samf - Metode- og teorizoom]]
+
+* '''Folkepension''' kom i 1956
+* Omkr samme tid kom '''SU''', og generelt flere kunne modtage hjælp
+* I 1960'erne begyndte '''kvinder''' at arbejde, hvilket medførte
+** '''vuggestuer, børnehaver, skolefritidsordninger'''
+
+Velfæren fra 50'erne og til 80'erne er kaldt "''Keynesian Welfare National State''" <cite>Bob Jessop (sociolog) - J. Torfing: Den stille revolution i velfærdsstaten (2003), s. 237</cite>
+
+=== John Maybard Keynes ===
+
+* Staten kan i visse situationer godt give penge ud uden at opkræve skatter i samme omfang. Staten kan jo bare enten '''låne''' penge - fx i udlandet - eller '''trykke flere penge'''! Disse penge kan så betales tilbage til lånerne i perioder, hvor indtægterne - i form af skatter og afgifter - er større end statens udgifter.
+* Keynes mente ikke at produktion skabte efterspørgsel, men at det væsentlige at sikre var '''efterspørgslen'''.
+
+== Stat, marked og civilsamfund ==
+
+[[Image:samf-velfardstrekant.png|thumb|411px|right|Velfærdstrekanten]]
+* '''Stat'''
+** Karl Marx (socialist) - stærk stat skulle gribe regulerende ind
+*** Pegede på, at folk levede under kummerlige forhold under industrialiseringen
+* '''Marked'''
+** Adam Smith (liberalist) - "bedst til at søge lykken på egen hånd"
+*** Staten skulle ikke gribe regulerende ind på markedet
+*** På "markedet" handler de "frie agenter" - købere og sælgere.
+* '''Civilsamfundet'''
+** Foreningsliv, familien, venner
+** Det civile samfund udfylder hulder som staten ikke kan eller vil dække (fx uddannelsesstøtte)
+
+<table border="1" style="border-collapse:collapse" cellpadding="4">
+<tr style="background:#e0e0e0">
+<th>Logikaspekt</th><td>Statslogik</td><td>Markedslogik</td><td>Civilsamfundslogik</td>
+</tr><tr>
+<th>Orientering</th><td>Samfundet</td><td>Sig selv</td><td>Sine nærmeste</td>
+</tr><tr>
+<th>Motivation</th><td>Pligt</td><td>Nød og nytte</td><td>Lyst</td>
+</tr><tr>
+<th>Man lægger vægt på</th><td>Magt og indflydelse</td><td>Penge</td><td>Anerkendelse (at høre til)</td>
+</tr><tr>
+<th>Relation mellem personer</th><td>Hieraki Regler</td><td>Bytte Kontrakter</td><td>Gensidig tillid</td>
+</tr><tr>
+<th>Mennesket er</th><td>Political man</td><td>Economic man</td><td>Social man</td>
+</tr>
+</table>
+
+== Forskellige velfærdsmodeller ==
+
+Velfærdsmodeller kan groft inddeles i tre:
+* Risiduel/Anglosaksiske/Engelsk-amerikanske/liberale model
+* Korporativ/Centraleuropæisk/kontinentaleuropæiske/konservative model
+* Universelle/Skandinaviske/Socialdemokratiske model
+
+<table style="border-collapse:collapse" border="1" cellpadding="4">
+<caption>Velfærdsstatsmodeller</caption>
+<tr style="background:#e0e0e0">
+<td>Model</td><th>Residualmodel (Engelsk-amerikansk model)</th><th>Korporative/selective model (centraleuropæisk mode)</th><th>Universel model (Skandinavisk model)</th>
+</tr><tr>
+<td>Primært mål</td>
+<td>Sikre mod fattigdom gennem sikring af grundlæggende velfærd</td>
+<td>Sikre mennesker med tilknytning til arbejdsmarkedet</td>
+<td>Lighed gennem mest mulig velfærd til alle</td>
+</tr><tr>
+<td>Primære dækningsgrupper</td><td>Personer i akut nød</td><td>Erhvervsaktive</td><td>Alle</td>
+</tr><tr>
+<td colspan="4">Hvilken rolle spiller</td>
+</tr><tr>
+<td>familien</td><td>Marginal</td><td>Central</td><td>Marginal</td>
+</tr><tr>
+<td>Markedet</td><td>Central</td><td>Begrænset</td><td>Begrænset</td>
+</tr><tr>
+<td>Staten</td><td>Minimal</td><td>Sekundær</td><td>Central</td>
+</tr><tr>
+<td>Arbejdsgiverne</td><td>Central</td><td>Central</td><td>Begrænset</td>
+</tr>
+</table>
+
+=== Residuelle model ===
+
+"I den anglosaksiske model er statens rolle residuel. Den primære opgave er at udgøre et '''nederste sikkerhedsnet''', at afhjælpe '''fattigdom''', men ikke meget andet. Staten træder kun til i sidste instans med kontanthjælp og lignende ordninger." <cite>Jon Kvist, 1997</cite>
+
+markedet “den bedste fordelingsmekanisme af samfundets goder”, og at staten skal “spille en beskeden og tilbagetrukket rolle og kun yde støtte til de dårligst stillede.” <cite>Benny Jacobsen og Ove Outzen, 2009</cite>
+
+Her lægges der vægt på at '''markedet''' løser opgaverne.
+
+=== Korporative model ===
+
+"Den kontinentaleuropæiske model sikrer i højere grad '''arbejdstagere''' end fattige, staten har en relativt passiv rolle, og foretager især indkomstsikringen gennem '''overførselsindkomster'''." <cite>Jon Kvist, 1997</cite>
+
+'''Civilsamfundet''' skal bære byrden. “Hvad fx '''familien''' selv kan klare, skal ikke overdrages til staten.” Sociale problemer bliver således forventet løst af familien og '''arbejdsmarkedet''' i form af '''social sikring''' til de arbejdende. Individer udenfor arbejdsmarkedet (fx husmødre) er derfor “henvist til hjælp fra familien eller '''frivillige hjælpeorganisationer'''.” <cite>Benny Jacobsen og Ove Outzen, 2009</cite>
+
+=== Universelle model ===
+
+Den skandinaviske velfærdsstat [har] på papireret en mere '''aktiv rolle''', idet '''staten''' skal sikre, at alle borgere uafhængigt af status får de bedst mulige standarder inden for social service. Instrumenterne er således ikke kun '''offentlige subsidier''', men også en bred vifte af '''serviceydelser''' fra hjemmehjælp til uddannelse." <cite>Jon Kvist, 2997</cite>
+
+Tværtimod kan man sige, at velfærdsstaten har til opgave at '''afbøde markedets skæve fordeling'''”, og familien falder ligeledes i baggrunden som sikkerhedsnet. '''Uddannelsessøtte''' er en individuel ret, uanset fx forældreindkomst. <cite>Benny Jacobsen og Ove Outzen, 2009</cite>
+
+== Problemer med velfæren (partipolitisk) ==
+
+* '''Venstre'''
+** Problem: "Velfærdsstaten var smukt tænkt, men er stik imod hensigten endt med at nedbryde det enkelte menneskes evne og for nogens vedkommende også ønske om at kunne klare sig selv"
+** Svar: "en '''lettelse i bruttoskatten''', som er målrettet mennesker i beskæftigelsen", og "'''frit valg''' mellem offentlige og private serviceydelser på så mange områder som muligt".
+* '''Socialistisk Folkeparti (SF)'''
+** Problem: "Fællesskabets problemer og opgaver løses bedst i fællesskab. Men det er ikke afgørende, hvor opgaverne løses. Og det er ikke altid at opgaverne løses i offentligt regi".
+** Svar: "det offentlige skal ikke løse opgaver og problemer for den enkelte, men '''samarbejde med brugerne''' om at skabe en situation, hvor man i størst muligt omfang skaber og udfylder sit eget liv" ..."det gælder om at skabe netværk og om at '''aktivere''' brugerne med henblik på at håndtere egen situation - netop ikke om at fratage brugerne indflydelse på deres eget liv".
+* '''Socialdemokratiet'''
+** Problem: "Vi står midt i en teknologisk revolution. Økonomien er global. Massemedierne ophæver fornemmelsen af tid og sted, landene knyttes stadig tættere sammen".
+** Svar: "...at udvikle velfærdssamfundet til den ny virkelighed". "Velfærdssamfundets fornyelse skal ske i et bredt '''samarbejde mellem stat, amter og kommuner, mellem arbejdsmarkedets parter, på arbejdspladserne i den offentlige og private sektor, i familierne'''".
+* '''Konservative folkeparti'''
+** Problem: "Det danske samfund står overfor store udfordringer i de kommende år. Den internationale konkurrence er hård. Benhård. ... sikre velfærdssamfundet fremover under de skærpede konkurrencevilkår ...rettet op på nogle af de områder, hvor velfærdssamfundet i dag svigter menneskers naturlige behov for valgfrihed og tryghed".
+** Svar: "Skal velfærdssamfundet ikke drukne totalt i skattetryk og dårlig offentlig service, må der '''spares på overførsler'''". "Besparelser og privatiseringer giver penge i kassen her og nu. Men kun hvis vi samtidigt får gennemført de nødvendige ændringer og reformer i skattesystemet, i dagpengesystemet og på kontanthjælpsområdet vil vi være i stand til at opretholde et velfungerende velfærdssamfund i fremtiden".
+<cite>Jon Kvist, 1997</cite>
+
+== Workfare ==
+
+* Kom i 1980
+* Ændringen kom i fra slutningen af 80'erne og op igennem 90'erne.
+** Fra ''passiv'' arbejdsmarkedspolitik til ''aktiv''
+** Fra ''Welfare'' til ''Workfare''
+** Fra ''forsørgelse'' til ''aktivering''
+
+<table style="border-collapse:collapse" border="1" cellpadding="2">
+<tr style="background:#e0e0e0">
+<td> </td><th>Welfare (forsørgelse)</th><th>Workfare (aktivering)</th>
+</tr><tr>
+<td>'''Grundlag'''</td><td>Rettighedsbaseret</td><td>Rettigheder kombineret med pligter</td>
+</tr><tr>
+<td>'''Funktion'''</td><td>Socialisering af risici - kollektiv løsning på risikoen for arbejdsløshed, sygdom og invaliditet</td><td>Individualisering af ricisi - det er den lediges ret og pligt til selv at sikre sig et job</td>
+</tr><tr>
+<td>'''Mål'''</td><td>Sikre leveniveau</td><td>Sikre arbejdsmarkedsintegration og dermed lavere offentlige socialudgifter</td>
+</tr><tr>
+<td>'''Middel'''</td><td>Forholdsvis generøse forsørgelsesydelser</td><td>Krav om deltagelse i ordninger, der øger de lediges chancer for at få et ordinært job.</td>
+</tr>
+</table>
+
+Engelsk sociolog og økonom, Bob Jessop:
+<table style="border-collapse:collapse" border="1" cellpadding="2">
+<caption>Sammenligning af welfares og workfares økonomiske politik</caption>
+<tr style="background:#e0e0e0">
+<td> </td><th>Keynesiansk welfare økonomisk politik</th><th>Workfare økonomisk politik</th>
+</tr><tr>
+<th>Økonomisk politik</th>
+<td>Styring af efterspørgslen inden for en delvist lukket økonomi - hvor hovedmålet er fuld beskæftigelse</td>
+<td>Forsøg på at skabe permanent innovation og fleksibilitet i en globaliseret økonomi gennem strukturpolitik.<br />Udbudsstyring</td>
+</tr><tr>
+<th>Velfærdspolitik</th>
+<td>
+* Rettighedsbaseret
+* Socialisering af risici (ledighed er samfundets ansvar)
+* Sikre levestandard og forbrug
+* Generøse forsørgelsesydelser</td>
+<td>
+* Rettigheder og pligter
+* Individualisering af ricisi (ledighed er indivduelt ansvar)
+* Sikre arbejdsmarkedsintegration og lavere udgifter, sikre fleksibilitet
+* Aktivering, deltagelsespligt</td>
+</tr><tr>
+<th>Placering i den internationale orden</th>
+<td>Det nationale niveau er det primære styringsniveau</td>
+<td>National styring udhules og den politiske magt forskydes opad (internationale organisationer som fx EU) og nedad (til private og offentlige enheder)</td>
+</tr><tr>
+<th>Staten</th>
+<td>Hierakisk styring - modvægt til arbejdsmarkedet</td>
+<td>Også styringsformer fra maredet tages i brug</td>
+</tr></table>
+
+== Government &rarr; Governance ==
+
+<dl><dt>Government<dd>statens formelle institutioner og processer, dvs. folketinget, regering og forvaltningsmyndigheder</dl>
+
+* "Governance-tesen påstår, at staten udfordres af det globale marked og influeres af markedslogikken" <cite>Benny Jacobsen og Ove Outzen, 2009</cite>
+* Staten har ingen autoritet
+* Kan karakteriseres som, et differentieret system, hvor mange aktørerer - udover staterne - spiller en rolle.
+** store multinationale selskaber
+** interesseorganisationer
+** frivillige organisationer (ngo'er)
+** internationale sammenslutninger (fx EU)
+
+<table style="border-collapse:collapse" border="1" cellpadding="3">
+<caption>Sammenligning af government og governance</caption>
+<tr>
+<th>Government-staten</th><th>Governance-staten</th>
+</tr><tr>
+<td>Politikerne træffer beslutninger og forvaltningen og institutionerne gennemfører beslutningerne</td>
+<td>Staten ses som et fragmenteret system, der er holdt sammen af mere eller mindre formaliserede netværk, som samarbejder på tværs</td>
+</tr><tr>
+<td>Hierakisk og bueaukratisk opbygning</td><td>Styring af netværk, ikke via formel autoritet, men via uformelle relationer</td>
+</tr><tr>
+<td>Ledelsesformen er den loyale embedsmand</td><td>Skillelinjen mellem staten og det omgivende samfund er udvisket, fx mellem det offentlige og det private</td>
+</tr><tr>
+<td>Demokratiformen er det repræsentative demokrati</td><td>Mange aktører deltager i styringen i en eller anden grad - på tværs af stat, marked og civilsamfund</td>
+</tr></table><cite>Benny Jacobsen og Ove Outzen, 2009</cite>
+
+== Velfæren i fremtiden ==
+
+=== Globalisering ===
+
+Der findes to scenarier for fremtiden. Sandheden ligger nok et sted i midten.
+
+# Den '''pesimistiske'''
+#* Nationalstaten mister sin magt og kan ikke føre en bestemt økonomisk politik.
+#* pga den fri konkurrence kan vi ikke udbyde samme serviceniveau.
+#* Jobs bliver flyttet til lavtlønslande.
+# Den '''optimistiske'''
+#* Bedre international arbejdsdeling &rarr; større økonomisk vækst &rarr; højere indkomst &rarr; større efterspørgsel efter velfærdsgoder &rarr; udvikling af endnu bedre velfærdssamfund.
+
+=== Ownership society ===
+
+se [Samf - Skolepolitik|Solepolitik] &rarr; Historisk overblik.
+
+Først (80'erne) brød vi med detailstyring, men så fik politikerne et problem fordi de ikke kunne dokumentere overfor folk at skolen stadig var god. Nu indfører man tests som en form for dokumentation.
+
+Dette medfører ''ownership society'': Borgerne kommer til at eje institutionerne, i stedet for at det offentlige ejer dem.
+
+</cite>"Der er skam en plan", Jens Ramsussen (professor på DPU), 2006, s. 9</cite>
+

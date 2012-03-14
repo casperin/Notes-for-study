@@ -1,0 +1,31 @@
+== Design phases ==
+
+# Start with the actual situation. '''Research''' phase.
+#* Go observe users. Talk to them. Who are the players, understand the industry, etc.
+#* Observe '''experiences''', not just products (how people use them, etc). Observing products is usability studies.
+# '''Analysis''' Make patterns. Understand the theory. Patterns of behavior.
+#* Make categories of who you're researching - Everybody should fall into some category
+#* Also look at the journey. What are the steps, that a person goes through? ... Where in this journey does each category of people having problems?
+# '''Synthesis''' - Come up with ideas. Make plans. Explore concepts.
+# '''Prototype & Launch''' - Build stuff. In testing prototypes, we are moving back to the Research phase.
+
+
+== Research phase ==
+
+* A systematic approach ...  "What are we trying to understand?" <-- Important to have defined
+
+Always bring notebook
+
+* Techniques
+** Observe
+** Interview
+** Ask Users to Self Document
+** Conduct Participatory Design Session
+** Enact
+** Seek Inspiration in New Places
+
+Look for
+* '''POEMS''': People, Objects, Environments, Motivations, Systems
+* Workarounds (when stuff fails)
+* What do they care about?
+* Subtleties

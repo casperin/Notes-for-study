@@ -1,0 +1,19 @@
+====Eksempel på et dokument====
+ \documentclass[a4paper,10pt,twopage]{article}
+ \usepackage{ucs}
+ \usepackage[utf8x]{inputenc}
+ \usepackage{lmodern}
+ \usepackage[T1]{fontenc}
+ \begin{document}
+ Hej verden her er jeg og her er lidt matematik $\sum f(n)$ og noget fremhævet
+ \begin{equation}
+ \frac{1}{3}\int_0^b f(x)\,dx
+ \end{equation}
+ \end{document}
+
+Man kan også lægge dette til for at ændre headers lidt
+ \usepackage{fancyhdr}
+ \pagestyle{fancy}
+
+Til raporter til skolen:
+ \linespread{2}

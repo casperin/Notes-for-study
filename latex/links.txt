@@ -1,0 +1,3 @@
+* [http://en.wikibooks.org/wiki/LaTeX/Print_version Wiki LaTeX manual]
+* [http://www.imf.au.dk/system/latex/bog/version3beta.html Stor dansk bog]
+* [http://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions More about Floats, Figures, and Captions]

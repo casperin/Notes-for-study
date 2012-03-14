@@ -1,0 +1,6 @@
+====Simple installation - No æøå====
+* '''apt-get install texlive'''
+* Write a [http://amath.colorado.edu/documentation/LaTeX/basics/example.html LaTeX document] and save it as a .tex
+* '''pdflatex file.tex''' to convert from .tex to .pdf
+====Full installation - with æøå====
+* '''apt-get install texlive-full'''
