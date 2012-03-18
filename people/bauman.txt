@@ -1,16 +1,16 @@
-===Generelt===
+# Generelt
 
-====Hurtigt====
+## Hurtigt
 * Opløste fællesskaber
 * Marginalisering / (social) arv / Normader
-** Nogen kan vælge, andre bliver der valgt for
+  * Nogen kan vælge, andre bliver der valgt for
 * Eksklusion
 * Velfærdskontrakten opløses
-** Der er ikke brug for reservearbejdskraften
+  * Der er ikke brug for reservearbejdskraften
 
 '''Løsning:''' Borgerløn
 
-====Arbejde forbrugerisme og de nye fattige (s. 125-148)====
+## Arbejde forbrugerisme og de nye fattige (s. 125-148)
 * De '''fattige''' er selve indbegrebet af det '''upassende''' og det '''abnorme'''
 * I det '''præ-moderne''' et uundværligt led i den guddommelige kæde af væsener<br />Man kan få '''aflad''' og '''syndsforladelse''' ved at hjælpe dem. De er også '''Guds børn'''.
 * I den '''industrielle æra arbejdskraftens reservehær'''<br />De skal '''hjælpes til et bedre liv'''. De skal guides. Det er jo bevist at de ikke kan have frit valg - det kan de ikke håndtere.
@@ -19,13 +19,13 @@
 * Usynlige fattige 
 * Offe: Kan retten til personlig indkomst adskilles fra evnen til at forskaffe sig en indkomst?<br />'''En mulig vej ud. Lad indkomst være uafhængig af arbejde'''.
 
-====‘Flydende Modernitet’====
+## ‘Flydende Modernitet’
 Efter den kolde krigs – og bipolaritetens ophør er globaliseringens konsekvenser helt ubestemte. 
 Dermed undergraves/svækkes statens orden – projektet om gennem kontrol med magtapparatet at forbedre ligheden for alle.
 
 Med '''orden''' menes '''kontrol'''.
 
-===Globalisering - glokalisering===
+## Globalisering - glokalisering
 
 * Den '''globale finansverden, handel og informationsindustri er afhængige af den politiske fragmentering''' – opsplitning af verdenscenen med svage stater
 * '''Politisk tribalisering''' med små afhængige stater og økonomisk globalisering er tætte allierede '''&rarr; glokalisering''' i stedet for globalisering 
@@ -40,7 +40,7 @@ Med '''orden''' menes '''kontrol'''.
 * Polarisering af mobiliteten: evnen til at ophæve tid/rum begrænsning<br />De rige (turisterne) kan være hvor som helst, når som helst. De fattige er bunden til deres lokation.
 * '''Nogle (de rige) bebor hele kloden – andre (de fattige) er lænket til stedet'''
 
-===Glokalisering===
+## Glokalisering
 
 * '''Turister''', som nyder den postmoderne frihed: Oplevelses-samlere, som vælger rejsen som livsstrategi 
 * '''Vagabonder''', som er underkastet postmoderne slaveri: Kan kun vælge det ’virtuelle vandringsliv’ (drømmende) – forspildte liv med skiftende ’mure’
@@ -53,7 +53,7 @@ Med '''orden''' menes '''kontrol'''.
 # Forbrugerisme -nødvendig for tro på opsvinget
 * Er nu afskaffet: Vælgerne i USA og andre steder '''ønsker nedskæringer i sociale ydelser''' for de fattige og skattelettelser for de rige
 
-===Forspildte liv===
+## Forspildte liv
 
 * Grænserne for norm og orden. Hvad gør vi med dem som ikke falder ind under dem? Det sociale univers omsluttes af:
 ** '''Den gamle ‘Big Brother’''' – industrialismen - hvor overvågning udfoldes som inklusion – '''integration og disciplin'''.
@@ -64,7 +64,7 @@ Med '''orden''' menes '''kontrol'''.
 ** Netværk er i '''konstant forandring''' og må kontaktes konstant (fx.sms)
 ** '''Forbrugerisme''', som skyldes ’undværlighedens/ flygtighedens’ skræmmespøgelse som tvinger os til at '''søge tryghed i forbrugsvarer som kontrollerbare partnere''', hvor vi kan skelne mellem nytte/affald. Her finder vi ’undværligheden’ som '''terapi''' og tilskyndes til at tage den med hjem i førstehjælpskassen
 
-===Generelle tendenser===
+## Generelle tendenser
 
 <dl>
 
@@ -87,7 +87,7 @@ Med '''orden''' menes '''kontrol'''.
 
 </dl>
 
-== Samfund (Fra "De nye fattige") ==
+# Samfund (Fra "De nye fattige")
 
 '''Samfund''' = gruppering af mennesker (oftest sat sammen af nød, end et egentligt valg). 
 
