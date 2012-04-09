@@ -6,11 +6,12 @@ In fact I am not entirely sure why you are even reading this, or why you should 
 
 What I do know, is that comparing happiness levels makes very little sense, and I won't get into that right now. The statement — that I'm the happiest person on this planet — is based on general observations and on what I have read on the subject.
 
-  1. **I live in Denmark.** I live in the country that according to studies have the happiest people. Of course this doesn't guarantee my happiness, but it's the best start I could ask for.
+  0. **I live in Denmark.** I live in the country that according to studies have the happiest people. Of course this doesn't guarantee my happiness, but it's the best start I could ask for.
 
-  2. **I am healthy.** No really. I have tried being ill, and being healthy is so much better.
+  0. **I am healthy.** No really. I have tried being ill, and being healthy is so much better.
 
-  3. **Healthy Work/life balance.** What is it? It's more or less what I chose it to be. My 8 hours “work day” is roughly devided thus: 50% studying, 45% working on my own project, and 5% working for money.
+  0. **Healthy Work/life balance.** What is it? It's more or less what I chose it to be. My 8 hours “work day” is roughly devided thus: 50% studying, 45% working on my own project, and 5% working for money.
+  <br>
   My own project doesn't give any money yet, but 1) It's a great learning experience, 2) It looks awesome on my CV (especially since we got a lot of big websites praising us), and 3) It's a lot of fun with some very intelligent people!
   If we take the SDT model for happiness (by Deci and Ryan), then this covers the *autonomy* area. I have a great portion of autonomy in my life, which is one of the three pillars for being happy. (The other two being “competency”, and “relatedness”).
 
