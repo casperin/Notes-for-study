@@ -12,9 +12,9 @@ What I do know, is that comparing happiness levels makes very little sense, and 
 
   3. **Healthy Work/life balance.** What is it? It's more or less what I chose it to be. My 8 hours “work day” is roughly devided thus: 50% studying, 45% working on my own project, and 5% working for money.
 
-  My own project doesn't give any money yet, but 1) It's a great learning experience, 2) It looks awesome on my CV (especially since we got a lot of big websites praising us), and 3) It's a lot of fun with some very intelligent people!
+My own project doesn't give any money yet, but 1) It's a great learning experience, 2) It looks awesome on my CV (especially since we got a lot of big websites praising us), and 3) It's a lot of fun with some very intelligent people!
 
-  If we take the SDT model for happiness (by Deci and Ryan), then this covers the *autonomy* area. I have a great portion of autonomy in my life, which is one of the three pillars for being happy. (The other two being “competency”, and “relatedness”).
+If we take the SDT model for happiness (by Deci and Ryan), then this covers the *autonomy* area. I have a great portion of autonomy in my life, which is one of the three pillars for being happy. (The other two being “competency”, and “relatedness”).
 
   4. **I “found” what I'm passionate about.** I'm not a believer in finding such things, but rather working towards them. I believe that the best way to search, is to get your hands dirty — really dirty.
 
