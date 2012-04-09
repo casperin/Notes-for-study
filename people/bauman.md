@@ -48,9 +48,9 @@ Med '''orden''' menes '''kontrol'''.
 
 * Presset for at '''nedbryde kapitalens barrierer''' for abejdskraft, penge, varer, tjenester og information går hånd i hånd med presset for at '''grave nye grøfter/rejse nye mure''' (f.eks. Immigrations- og nationalitets-love)
 * Den tidligere enhed/afhængighed mellem rig/fattig var baggrunden for en (afmålt) solidaritet:
-# De fattige ’guds børn’ -nødvendige for velgørenhedsfrelse
-# Reservearme -nødvendig for velstandsproduktion
-# Forbrugerisme -nødvendig for tro på opsvinget
+0. De fattige ’guds børn’ -nødvendige for velgørenhedsfrelse
+0. Reservearme -nødvendig for velstandsproduktion
+0. Forbrugerisme -nødvendig for tro på opsvinget
 * Er nu afskaffet: Vælgerne i USA og andre steder '''ønsker nedskæringer i sociale ydelser''' for de fattige og skattelettelser for de rige
 
 ## Forspildte liv
