@@ -1,0 +1,5 @@
+# I'm not sure there is room enough for both your ego and me inhere
+
+Whenever I see an SUV or a Ferrari (or God forbid, a Hummer), I feel disgust. Why did that money go to something so expensive, that a) you don't need, and b) is so damaging to society as a whole. I can't even count the ways I see this as bad.
+
+People with a lot of money, are almost (unfortunately) by definition role models for a lot of people. People who are struggling to get through the day, dreaming of one day not having to worry about their next downpayment for some reason look up to these idiots in big houses and big cars, and they even try to act like these (that's why they bought a house they couldn't afford in the first place). And what they learn, is that the right thing to do is to spend money on shit they don't need. Why is this so backwards? Why is it that we look up to those who do bad? Why aren't our role models the ones who really do good? Sure, mother Teresa and Dalai Lama are the role models for many people, but I don't see those same people immitating them at all.
