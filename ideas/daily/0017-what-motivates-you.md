@@ -6,3 +6,4 @@ Whenever I travel for long periods of time, I inevitably get a feeling of being 
 
 I think those who go on to do great things, have curiosity as their greatest inspiration. They want to experiment and learn. To play. They are curious about their work and creations. Not just trying to figure out how to make it better, but curious about all its aspects.
 
+This is why you need a company. This is why you need great friends. This is why you need to learn how to code. This is why you need to learn how to master areas that increases your creative abilities, and to find company that can help you and support your ideas.
