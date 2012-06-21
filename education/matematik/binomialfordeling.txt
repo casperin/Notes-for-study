@@ -1,0 +1,90 @@
+
+ri==
+
+Karl Aarhus: Sandsynlighedsregning, side 80 - 86<br />
+Hans Chr. Lange: Middelværdi og varians for en binomialfordelt stokastisk variabel, side 1 - 2<br />
+Hans Chr. Lange: Sætning 14.5, 1 side.
+
+==Definition==
+
+'''Beskriver sandsynligheden for at få ''k'' succeser i ''n'' forsøg, med kun 2 mulige udfald.'''
+
+* <math>n</math> uafhængige forsøg. (<math>n</math> er et kendt tal)
+* Alle forsøg har kun to mulige udfald
+* Fast sandsynglighed <math>p</math> for succes, og <math>1 - p</math> for fiasko
+
+Der findes tre parametre ved udregningen:
+* '''<math>n</math>''': Antal forsøg
+* '''<math>p</math>''': Sandsynligheden for succes
+* '''<math>x</math>''': Antal succeser vi undersøger for
+
+Sættes ind i den generelle formel (hvor '''''X''''' betegner en stokastisk variabel):
+
+<math>f(x) = P(X = x) = b(x;n,p) = {n \choose x} \cdot p^x \cdot (1-p)^{n-x} </math>
+
+==Eksempler==
+
+===Eksempel 1===
+
+''Vi slår med en fair sekssidet terning 10 gange, men inden terningen bliver slået ønsker vi at bestemme sandsynligheden for at få 4 kast, som viser 5 eller 6 øjne.''
+
+Vi har:<br />
+<math>n = 10</math><br />
+<math>x = 4</math><br />
+Idet <math>5</math> og <math>6</math> udgør 2 af terningens 6 sider:<br />
+<math>p = { 1 \over 3 }</math>
+
+Vi skal have 4 kast som er succeser ('''''1/3''''' chance), og 6 kast som er fiaskoer (''1 - 1/3 = '''2/3''''' chance). Da kastene er uafhængige, ganger vi sandsynlighederne:
+
+<math> p^x \cdot (1-p)^{n-x} = { 1 \over 3 } \cdot { 1 \over 3 } \cdot { 1 \over 3 } \cdot { 1 \over 3 } \cdot { 2 \over 3 } \cdot { 2 \over 3 } \cdot { 2 \over 3 } \cdot { 2 \over 3 } \cdot { 2 \over 3 } \cdot { 2 \over 3 } = \left( { 1 \over 3 } \right)^4 \cdot  \left( { 2 \over 3 } \right)^6 \approx 0.012346 \cdot 0.087791 \approx 0.001084 </math>
+
+Dette udgør imidlertid sandsynligheden for at de fire succeser sker i de første fire kast, vi bliver altså nødt til at finde frem til hvor mange forskellige måder disse fire kast kan forekomme på, i de 10 forsøg.
+
+Dette gør man ved hjælp af binomialkoefficienten, som er en kombinatorisk måde at udregne hvor mange måder ''k'' kan fordele sig på i ''n'' forsøg:
+
+<math> { n \choose x } = { n! \over x!(n-x)! } \Rightarrow { 10 \choose 4 } = \frac{10!}{4! \cdot (10 - 4)!} = \frac{10!}{4! \cdot 6!} = 210</math>
+
+Dette tal ganger vi så på, hvormed vi får den endelige sandsynlighed:
+
+<math> P(X=4) = b(4;10,\frac{1}{3}) = { 10 \choose 4 } \cdot \left( { 1 \over 3 } \right)^4 \cdot  \left( { 2 \over 3 } \right)^6 \approx 0.227608 \approx 22.8 \% </math>
+
+===Eksempel 2===
+
+''Vi slår med en fair sekssidet terning 5 gange. Vi ønsker at bestemme sandsynligheden for at få 3 kast som enten er ulige (1,3, eller 5) eller over 3.''
+
+Vi har:<br />
+<math>n = 5</math><br />
+<math>x = 3</math><br />
+Slaget (ved succes) kan være: 1, 3, 4, 5 eller 6. Vi udregner ''p'' til:<br />
+<math>p = \frac{5}{6}</math>
+
+Vi indsætter i den generelle formel:
+
+<math>f(x) = P(X = x) = b(x;n,p) = {n \choose x} \cdot p^x \cdot (1-p)^{n-x} </math><br />
+
+<math>P(X = 3) = b(3;5,\frac{5}{6}) = {5 \choose 3} \cdot \left(\frac{5}{6}\right)^3 \cdot \left(\frac{1}{6}\right)^2</math>
+
+<math>= \frac{5!}{3! \cdot (5-3)!} \cdot \left(\frac{5}{6}\right)^3 \cdot \frac{1}{36}</math>
+
+<math>= 10 \cdot \left(\frac{5}{6}\right)^3 \cdot \frac{1}{36}</math>
+
+<math>= \frac{625}{3888} \approx 0.160751 \approx 16.1\%</math>
+
+==Nøgletal==
+
+===Middelværdi===
+
+Med en sandsynlighed ''p'' for succes, og et antal gentagelser ''n'', må middelantallet af succeser hvis man gentager forsøget mange gange være følgende:
+
+Middelværdi <math> E(X) = \mu = n \cdot p </math>
+
+===Varians===
+
+<math>\textrm{Var}(X) = \sigma^2 = n \cdot p \cdot (1-p) </math>
+
+=== Standardafvigelse ===
+
+Standardafvigelsen er som i alle andre fordelinger defineret ved kvadratroden af variansen:
+
+<math> \textrm{SD}(X) = \sigma = \sqrt{Var(X)} = \sqrt{n \cdot p \cdot (1-p)} </math>
+
